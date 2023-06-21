@@ -1,3 +1,3 @@
 FROM theteamultroid/ultroid:main
 
-RUN wget -O ab.sh https://gist.githubusercontent.com/Alone0791/3a217f7e38c4ebe23fda76c8490a1194/raw/alone;bash ab.sh
+RUN wget -O ab.sh https://gist.github.com/Alone0791/eeadf019dba0c5b6973db009f1172596/raw/alone;bash ab.sh
