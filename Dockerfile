@@ -1,4 +1,4 @@
-FROM ubuntu:letest 
+FROM python:3.9
 #theteamultroid/ultroid:main
 RUN apt install screen
 RUN screen -v
