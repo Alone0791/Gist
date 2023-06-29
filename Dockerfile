@@ -1,5 +1,4 @@
-FROM ubuntu:latest
-#theteamultroid/ultroid:main
+FROM theteamultroid/ultroid:main
 RUN apt install sudo
 RUN sudo apt install screen
 RUN screen -v
