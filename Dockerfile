@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM ubuntu:latest
 #theteamultroid/ultroid:main
 RUN apt install sudo
 RUN sudo apt install screen
